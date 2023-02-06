@@ -1,2 +1,2 @@
 # Simulations
-Modelling natural processes with numerical methods
+Modelling real-world processes with numerical methods
